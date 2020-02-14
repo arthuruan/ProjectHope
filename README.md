@@ -1,2 +1,2 @@
 # ProjectHope
-projet hope
+project hope
